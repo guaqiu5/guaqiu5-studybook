@@ -10,3 +10,5 @@
 表单控件(v-model后 checkbox,radio可设value值）
 
 表单修饰符(lazy(懒加载） number（内容必须为数字） trim(去首尾空格））
+
+综合小项目：购物车
