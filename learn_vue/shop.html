@@ -1,0 +1,72 @@
+<!-- 购物车实例 -->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>购物车实例</title>
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+</head>
+
+<body>
+    <div id='app'>
+        <ul>
+            <li v-for="data in datalist" key='data'>
+                <input type="checkbox" v-model="checkedboxs" :value='data'> {{data.name}}----{{data.price}}----{{data.number}}
+                <button @click="data.number++">+</button>
+                <button @click="deleteData($index)">删除</button>
+            </li>
+        </ul>
+        <div>
+            <input type="checkbox" v-model='isAll' @click="handleIsAll">全选
+            <span>总价格:{{totalPrice()}}</span>
+        </div>
+    </div>
+</body>
+<script>
+    const app = new Vue({
+        el: '#app',
+        data: {
+            datalist: [{
+                id: 1,
+                name: "杂鱼",
+                price: 20,
+                number: 1,
+                limit: 5,
+            }, {
+                id: 2,
+                name: "土鸡",
+                price: 15,
+                number: 1,
+                limit: 8,
+            }],
+            checkedboxs: [],
+            isAll: false,
+        },
+        methods: {
+            totalPrice: function() {
+                let sum = 0;
+                for (let i = 0; i < this.checkedboxs.length; i++) {
+                    sum += this.checkedboxs[i].number * this.checkedboxs[i].price;
+                }
+                return sum;
+            },
+            handleIsAll: function() {
+                this.isAll = !this.isAll;
+                if (this.isAll) {
+                    this.checkedboxs = this.datalist;
+
+                } else {
+                    this.checkedboxs = [];
+                }
+            },
+            deleteData: function(index) {
+                this.datalist.splice(index, 1);
+            }
+        },
+    })
+</script>
+
+</html>
