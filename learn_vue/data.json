@@ -1,0 +1,515 @@
+{
+    "status": 0,
+    "data": {
+        "films": [{
+                "filmId": 5741,
+                "name": "扬名立万",
+                "poster": "https://pic.maizuo.com/usr/movie/1d5e0db13aa75d5235a0b69bc560818a.jpg",
+                "actors": [{
+                        "name": "刘循子墨",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c2d3f2e466da4dfbec0312456534f5a9.jpg"
+                    },
+                    {
+                        "name": "尹正",
+                        "role": "李家辉",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ff0bae3ffb9a3f812d018ed3af7a68ac.jpg"
+                    },
+                    {
+                        "name": "邓家佳",
+                        "role": "苏梦蝶",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a3d36f16fd3ddcfc7eb9b37f4aae1d21.jpg"
+                    },
+                    {
+                        "name": "喻恩泰",
+                        "role": "郑千里",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/29839521b0c13c8326f953c74a3c7465.jpg"
+                    },
+                    {
+                        "name": "杨皓宇",
+                        "role": "关静年",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f7456d44d51f1dfd59b304c78257b56f.jpg"
+                    }
+                ],
+                "director": "刘循子墨",
+                "category": "悬疑|剧情",
+                "synopsis": "月黑风高之夜，一群电影人被秘密召集到一起，欲将轰动一时的血案翻拍成电影，借此扬名立万。殊不知他们正身处案发现场，并步步陷入一个巨大迷局之中，而凶手就在他们中间……伴随着利欲熏天的创作风暴，案件背后的故事似乎也更加扑朔迷离，戏中戏、案中案、局中局、人外人，环环相扣，一场野心与良心的较量愈演愈烈。究竟是命悬一线，还是另有惊天逆转？爱与温暖的血色花又能否从快将干涸的血河中终极绽放？一切都有待揭开。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1636588800,
+                "timeType": 3,
+                "runtime": 123,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5737,
+                "name": "门锁",
+                "poster": "https://pic.maizuo.com/usr/movie/c548a0f8008ba95cc41b04266f63a397.png",
+                "actors": [{
+                        "name": "别克",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b953e4727fa164a1e88deef83361f402.jpg"
+                    },
+                    {
+                        "name": "白百何",
+                        "role": "方卉",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f0bcd4b6fd7897a198807fd03b423907.jpg"
+                    },
+                    {
+                        "name": "白客",
+                        "role": "郑飞",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/2ba4bc6ea4582d63630ddab8099fbe7a.jpg"
+                    },
+                    {
+                        "name": "范丞丞",
+                        "role": "小吴",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/38cffc84d2a126e7e3362bf1d3ffe0fc.jpg"
+                    },
+                    {
+                        "name": "王紫璇",
+                        "role": "乔小曼",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/62c25355924aa6e3d4b723e92f1adc3d.jpg"
+                    }
+                ],
+                "director": "别克",
+                "category": "犯罪|剧情",
+                "synopsis": "单身貌美的方卉，独自在大城市打拼，过着两点一线的生活。一天夜里，她突然听见门外有人暴力拉拽门把手试图闯入。虽然没有看清门外是谁，但通过保安小吴得知，自己楼层的监控坏了。这让方卉平静的独居生活突然笼罩在惊恐不安的阴影之中。当夜晚再次降临，熟睡中的方卉隐约察觉有人进入了她的房间，但她醒来后却没有发现任何迹象。渐渐，她的精神状态也开始变得越来越差。身边反复出现的几个男人，房屋中介高齐、保安小吴、公司领导李总、宠物医生郑飞，他们似乎都有自己不可告人的目的。随着好闺蜜乔小曼的离奇失踪，独居，几乎成为了方卉的梦魇……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1637280000,
+                "timeType": 3,
+                "runtime": 105,
+                "grade": "7.2",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5742,
+                "name": "铁道英雄",
+                "poster": "https://pic.maizuo.com/usr/movie/3ab47b80c6054496e07d8bc162a14e44.jpg",
+                "actors": [{
+                        "name": "杨枫",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/815b796d23d3449fd85cd929f061584f.jpg"
+                    },
+                    {
+                        "name": "张涵予",
+                        "role": "老洪",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5126791df2a4ade6ff8e8304c79877c4.jpg"
+                    },
+                    {
+                        "name": "范伟",
+                        "role": "老王",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/400f4d0549783065ffdbcc72ecd112fa.jpg"
+                    },
+                    {
+                        "name": "魏晨",
+                        "role": "亓顺",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d3a63ed67e44281f15216dd41fd61cdc.jpg"
+                    },
+                    {
+                        "name": "周也",
+                        "role": "庄妍",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f6effc44ee77fa3f92bcb9e7b5ab8811.jpg"
+                    }
+                ],
+                "director": "杨枫",
+                "category": "战争|剧情|动作",
+                "synopsis": "影片讲述了抗日战争时期，临城枣庄英勇的“铁道队”与敌人斗智斗勇，殊死捍卫家园的故事。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1637280000,
+                "timeType": 3,
+                "runtime": 123,
+                "grade": "7.8",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5618,
+                "name": "长津湖",
+                "poster": "https://pic.maizuo.com/usr/movie/602506deba12aa489ffc30184dca1b08.jpg",
+                "actors": [{
+                        "name": "陈凯歌",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7c4f4a21c2bd1fea583c0abbb3e3a137.jpg"
+                    },
+                    {
+                        "name": "徐克",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/167312fd73483b00efa169c29663d403.jpg"
+                    },
+                    {
+                        "name": "林超贤",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4033b234b72900ee8859fc739afe7e23.jpg"
+                    },
+                    {
+                        "name": "吴京",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/0a8f4a063cce18afa5103a26577c452b.jpg"
+                    },
+                    {
+                        "name": "易烊千玺",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/f9b4b9f6f7564b4068aec8d37036459e.jpg"
+                    }
+                ],
+                "director": "陈凯歌|徐克|林超贤",
+                "category": "剧情|历史|战争",
+                "synopsis": "电影《长津湖》以抗美援朝战争第二次战役中的长津湖战役为背景，讲述了一段波澜壮阔的历史：71年前，中国人民志愿军赴朝作战，在极寒严酷环境下，东线作战部队凭着钢铁意志和英勇无畏的战斗精神一路追击，奋勇杀敌，扭转了战场态势，打出了军威国威。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1628726400,
+                "timeType": 3,
+                "runtime": 0,
+                "grade": "7.6",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5735,
+                "name": "梅艳芳",
+                "poster": "https://pic.maizuo.com/usr/movie/3f75231e501ee488859e524edc0dca9f.jpg",
+                "actors": [{
+                        "name": "梁乐民",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3213b839a9b71c9f3c2b22debb297bfc.jpg"
+                    },
+                    {
+                        "name": "王丹妮",
+                        "role": "梅艳芳",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/d4b165f442e02d6216ac0a524a29d2cd.jpg"
+                    },
+                    {
+                        "name": "古天乐",
+                        "role": "刘培基",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/673ea3b3c6e077a7ce30611666769fc8.jpg"
+                    },
+                    {
+                        "name": "林家栋",
+                        "role": "苏孝良",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/1da0476fe34c8abe011353f414567e62.jpg"
+                    },
+                    {
+                        "name": "杨千嬅",
+                        "role": "Florence",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/b3a8ba15b8ee02edc1d31476e4443c38.jpg"
+                    }
+                ],
+                "director": "梁乐民",
+                "category": "剧情|传记",
+                "synopsis": "电影《梅艳芳》讲述了梅艳芳一生的传奇经历。梅艳芳年仅4岁半便和姐姐梅爱芳一起登台卖唱，养家糊口。19岁参加华星唱片举办的第一届新秀歌唱大赛，获得冠军，从此同舞台结下不解之缘，凭借敬业的精神和过人的才华，慢慢成长为一代巨星，获封“百变天后”。2003年，一首《夕阳之歌》和一件定制的婚纱，她选择把自己嫁给了舞台。风华绝代尤可见，世间再无梅艳芳。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国香港",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1636675200,
+                "timeType": 3,
+                "runtime": 137,
+                "grade": "7.1",
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5746,
+                "name": "野马分鬃",
+                "poster": "https://pic.maizuo.com/usr/movie/75059d1ab188262e104bf357714cc33a.jpg",
+                "actors": [{
+                        "name": "魏书钧",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/7ead204e31427e4daae3081dda7b288b.jpg"
+                    },
+                    {
+                        "name": "周游",
+                        "role": "左坤",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c3f2b5384205805aeb79a6f5e43f260c.jpg"
+                    },
+                    {
+                        "name": "郑英辰",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/5cba5d1a304f4a890c8fb7be441763ac.jpg"
+                    },
+                    {
+                        "name": "王小木",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/a2241726580a216a75cb51ecbbccb440.jpg"
+                    },
+                    {
+                        "name": "赵多娜",
+                        "role": "演员",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/e1859027b3aeb07fd9c81ab0de3f8443.jpg"
+                    }
+                ],
+                "director": "魏书钧",
+                "category": "剧情|青春",
+                "synopsis": "大学即将毕业的阿坤正站在大学和社会的分水岭上，他像所有急于驰骋的少年一样，迫不及待要好好闯荡一番。拿到驾照后，阿坤邂逅了自己的二手吉普车，本以为它会给生活带来新的可能，但它却将自己带到了人生的另一个路口。在这段荒腔走板的日子中，阿坤逐渐意识到了成长的代价和生命的无常。",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1637884800,
+                "timeType": 3,
+                "runtime": 130,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5725,
+                "name": "007：无暇赴死",
+                "poster": "https://pic.maizuo.com/usr/movie/fe5f0ef6c6cbf8d87f206cbd9835bd96.jpg",
+                "actors": [{
+                        "name": "凯瑞·福永",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/05f26c8e023609aaba2b87b80fb3b227.jpg"
+                    },
+                    {
+                        "name": "丹尼尔·克雷格",
+                        "role": "詹姆斯·邦德 James Bond",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/17d08b928877cb47fe65fb49100a263d.jpg"
+                    },
+                    {
+                        "name": "安娜·德·阿玛斯",
+                        "role": "帕洛玛 Paloma",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/4264172cfca784cbebb96b61b4616073.jpg"
+                    },
+                    {
+                        "name": "蕾雅·赛杜",
+                        "role": "玛德琳·斯旺 Madeleine Swann",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/3c34ee4ad90c1b0eb12b0ee11c55f024.jpg"
+                    },
+                    {
+                        "name": "拉米·马雷克",
+                        "role": "路西弗·萨芬 Lyutsifer Safin",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/8d804b41aedaf21301a2e81b8ad44788.jpg"
+                    }
+                ],
+                "director": "凯瑞·福永",
+                "category": "动作|冒险",
+                "synopsis": "隐退的邦德在牙买加过着平静的生活，直到他的中情局旧友费利克斯·莱特前来寻求帮助，短暂的平静就此告一段落。他们试图营救一名被绑架科学家，但这个任务不仅危险度远超预期，更是将邦德带上了追踪配备危险新科技的神秘反派之旅。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "美国,英国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1635465600,
+                "timeType": 3,
+                "runtime": 164,
+                "grade": "7.6",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5752,
+                "name": "银行家",
+                "poster": "https://pic.maizuo.com/usr/movie/412ebee165aab0a1fce942ba006b8a20.jpg",
+                "actors": [{
+                        "name": "乔治·诺非",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/701f49cdd8593fd6e8463119f829f72f.jpg"
+                    },
+                    {
+                        "name": "塞缪尔·杰克逊",
+                        "role": "Joe Morris",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/bfb07130f0f718d4e50312d104b18ef2.jpg"
+                    },
+                    {
+                        "name": "尼古拉斯·霍尔特",
+                        "role": "Matt Steiner",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/ccf44b69f105f65df8de518cebb066f0.jpg"
+                    },
+                    {
+                        "name": "安东尼·麦凯",
+                        "role": "Bernard Garrett",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/efac7757ecf47d7851e9bc78a392be14.jpg"
+                    },
+                    {
+                        "name": "杰西·厄舍",
+                        "role": "Tony Jackson",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/455f6e800a83de4f54fe2f8901e2af6a.jpg"
+                    }
+                ],
+                "director": "乔治·诺非",
+                "category": "剧情|犯罪|传记",
+                "synopsis": "改编自真实故事，20世纪50年代的美国，从小励志改变命运的黑人企业家伯纳德（安东尼·麦凯饰）和乔（塞缪尔·杰克逊 饰）在种族制度的枷锁下，创业处处受阻。不得已他们想出奇招，雇佣白人马特（尼古拉斯·霍尔特 饰）来扮演他们产业帝国的“老大”，伯纳德和乔则扮成门房和司机，幕后操盘。就在他们的产业帝国越发壮大之时，却面临暴露的危险……",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1637884800,
+                "timeType": 3,
+                "runtime": 121,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5743,
+                "name": "丛林奇航",
+                "poster": "https://pic.maizuo.com/usr/movie/58fe9476e748a2437830ae4ffa5799e7.jpg",
+                "actors": [{
+                        "name": "佐米·希尔拉",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/575d5131ea53bd9a31aa1563f661f4fe.jpg"
+                    },
+                    {
+                        "name": "道恩·强森",
+                        "role": "Frank 弗兰克",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/cfa3c55865fbd9e3bdf2ad9dff641fe1.jpg"
+                    },
+                    {
+                        "name": "艾米莉·布朗特",
+                        "role": "Lily Houghton 莉莉·霍顿",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/6921691d42f2176d0dc9ae767a3a2365.jpg"
+                    },
+                    {
+                        "name": "埃德加·拉米雷兹",
+                        "role": "Aguirre 阿吉雷",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/30cc5b0857624250ebc58ed77003583f.jpg"
+                    },
+                    {
+                        "name": "杰克·怀特霍尔",
+                        "role": "McGregor Houghton 麦格雷戈·霍顿",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/60753d4386653cd1cab113b23be4d3ad.jpg"
+                    }
+                ],
+                "director": "佐米·希尔拉",
+                "category": "冒险|动作|喜剧",
+                "synopsis": "片约不断的巨石强森（Dwayne Johnson）最近又将和迪士尼合作，主演他们根据迪士尼乐园游玩项目“森林河流之旅”（Jungle Cruise）创作的同名影片。 迪士尼把迪士尼乐园里的游乐设施拍成电影并非首次，最成功的当属《加勒比海盗》（Pirates of the Caribbean）系列，此外《鬼屋》（The Haunted Mansion）、《乡村熊》（The Country Bears）和今年的《明日世界》（Tomorrowland）也都是这种类型的电影。 “森林河流之旅”是迪士尼乐园1955年首次开放就有的22个迪士尼乐园元老级的项目之一，也是一个很受游客欢迎的项目，经常排长队。在这个项目中，游客们坐在小船上，在导游的讲解陪伴下经历喷水、喷火、大象、鳄鱼等各种各样的机关，完成刺激有趣的冒险之旅。 迪士尼早在2004年就有了拍摄本片的念头，2011年他们甚至定下让汤姆·汉克斯（Tom Hanks）和蒂姆·艾伦（Tim Allen）这两位《玩具总动员》里的好拍档来主演。如今新的《森林河流之旅》电影计划和那个版本有了很大的不同，影并不会把时代背景搬到现代，而是和1951年的经典冒险片《非洲女王号》（The African Queen）比较类似。",
+                "filmType": {
+                    "name": "3D",
+                    "value": 2
+                },
+                "nation": "美国",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1636675200,
+                "timeType": 3,
+                "runtime": 128,
+                "grade": "7.8",
+                "item": {
+                    "name": "3D",
+                    "type": 2
+                },
+                "isPresale": true,
+                "isSale": false
+            },
+            {
+                "filmId": 5751,
+                "name": "读心者之深海",
+                "poster": "https://pic.maizuo.com/usr/movie/97c9eb5ab51dce25d5ad002368b1288a.jpg",
+                "actors": [{
+                        "name": "边军",
+                        "role": "导演",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/169ec004d5fac9c26676cef6dba65393.jpg"
+                    },
+                    {
+                        "name": "牛浩霖",
+                        "role": "黄晓军",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/107663fb36c5e727b06129cf0e35133b.jpg"
+                    },
+                    {
+                        "name": "沈丽华",
+                        "role": "赵立华",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/c85d4e7604744e4322e7279457bd3a54.jpg"
+                    },
+                    {
+                        "name": "杨雪",
+                        "role": "陈梦如",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/59bed40b9995e3c4c866828dcdd12862.jpg"
+                    },
+                    {
+                        "name": "冯国光",
+                        "role": "吴教授",
+                        "avatarAddress": "https://pic.maizuo.com/usr/movie/943d59329a349d213e650f3ab5b00ce7.jpg"
+                    }
+                ],
+                "director": "边军",
+                "category": "惊悚|恐怖",
+                "synopsis": "心理咨询师黄晓军被冤涉嫌对女客户杨伊芳性骚扰被投诉，黄晓军的导师吴教授又为他介绍了一个叫赵立华的客户，希望他能帮助到对方。在为赵立华做治疗的过程中，黄晓军逐步揭开对方的秘密——“女鬼”——赵立华眼睁睁看着发生意外死去的女友。就是对赵立华未能施救的报复。“鬼爪”将赵立华推下楼顶，他不断的被“女鬼”骚扰......惊悚氛围扣人心弦,听视觉体验拉开大幕！",
+                "filmType": {
+                    "name": "2D",
+                    "value": 1
+                },
+                "nation": "中国大陆",
+                "language": "",
+                "videoId": "",
+                "premiereAt": 1637884800,
+                "timeType": 3,
+                "runtime": 90,
+                "item": {
+                    "name": "2D",
+                    "type": 1
+                },
+                "isPresale": true,
+                "isSale": false
+            }
+        ],
+        "total": 27
+    },
+    "msg": "ok"
+}
