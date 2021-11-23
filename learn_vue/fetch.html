@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+
+<body>
+    <div id='app'>
+        <button @click='handleFetch'>getdata</button>
+        <ul>
+
+            <li v-for="data in datalist" :key="data">
+                <img :src="data.poster" />{{data.name}}
+
+        </ul>
+    </div>
+
+</body>
+<script>
+    const app = new Vue({
+        el: '#app',
+        data: {
+            datalist: [],
+        },
+        methods: {
+            handleFetch() {
+                fetch("./data.json").then(res => res.json()).then(res => {
+                    console.log(res.data.films)
+                    this.datalist = res.data.films;
+
+                }).catch(err => {
+                    console.log(err);
+                })
+            }
+
+        },
+    })
+</script>
+
+</html>
