@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+
+<body>
+    <div id="app">
+        <testbutton @myevent=handleEvent :name=name></testbutton>
+        <testbar v-show="isShow"></testbar>
+    </div>
+
+</body>
+<script>
+    Vue.component('testbutton', {
+        props: {
+            name: {
+                type: String,
+                default: "土鸡"
+            }
+
+
+        },
+        template: `<div> <button @click=handleClick>{{name}}</button></div>`,
+        methods: {
+            handleClick() {
+                this.$emit("myevent");
+            }
+
+        },
+    })
+    Vue.component('testbar', {
+        template: `<div> 
+        <ul>
+            <li>111</li>
+            <li>222</li>
+        </ul></div>`,
+
+    })
+    const app = new Vue({
+        el: "#app",
+        methods: {
+            handleEvent() {
+                this.isShow = !this.isShow;
+            }
+        },
+        data: {
+            isShow: false,
+            name: 11,
+        }
+    })
+</script>
+
+</html>
