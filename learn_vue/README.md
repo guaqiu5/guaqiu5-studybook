@@ -56,3 +56,11 @@ b. 具名slot
 
 子传父 this.$emit()
 其余见思维导图（vue05.xmind）
+
+## vue-router
+
+https://router.vuejs.org/zh/
+
+## vuex
+
+https://vuex.vuejs.org/zh/
