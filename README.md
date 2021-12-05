@@ -2,7 +2,7 @@
 2 dup(day) up!
 ## ouput 一览
 
-## 最近在学TypeScript
+## 最近在肝竞赛
 
 ## 算法
 常更 ；leetcode刷题小笔记 https://github.com/guaqiu5/guaqiu5-studybook/tree/main/%E7%AE%97%E6%B3%95
@@ -16,3 +16,5 @@
 掘金 函数式编程(下)  https://juejin.cn/post/7031387498643357703/
 
 掘金 宏任务与微任务  https://juejin.cn/post/7035985703573913630/
+
+掘金 es6新特性复盘(上) https://juejin.cn/post/7038125305558499358  
