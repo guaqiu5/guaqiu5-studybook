@@ -18,3 +18,5 @@
 掘金 宏任务与微任务  https://juejin.cn/post/7035985703573913630/
 
 掘金 es6新特性复盘(上) https://juejin.cn/post/7038125305558499358  
+
+掘金 es6新特性复盘(下) https://juejin.cn/post/7040792210212126727/
