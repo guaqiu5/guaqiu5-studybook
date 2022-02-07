@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+
+<body>
+    <button id="btn">点我</button>
+
+</body>
+<script src="/防抖节流.js"></script>
+<script>
+    var num = 0
+
+    function fn() {
+        num++
+        console.log(num)
+    }
+    const btn = document.querySelector("#btn")
+        // btn.onclick = throttle(fn, 3000)
+    btn.onclick = throttle_v2(fn, 3000)
+        // btn.onclick = debounceOnce(fn, 3000)
+        // btn.onclick = debounceLazy(fn, 3000)
+</script>
+
+</html>
